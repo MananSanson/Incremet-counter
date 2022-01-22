@@ -36,3 +36,9 @@ body{
         flex-direction: column;
     }
 }
+
+.example{
+    display: flex;
+    font-size: 100px;
+    width: 100px;
+}
