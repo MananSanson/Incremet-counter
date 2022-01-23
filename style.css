@@ -31,14 +31,8 @@ body{
 
 }
 
-@media(max-width: 580px){
+@media(max-width: 650px){
     body{
         flex-direction: column;
     }
-}
-
-.example{
-    display: flex;
-    font-size: 100px;
-    width: 100px;
 }
